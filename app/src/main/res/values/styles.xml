@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.RRMotorReminder"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#D32F2F</item>
+        <item name="colorPrimaryVariant">#B71C1C</item>
+        <item name="colorSecondary">#FFC107</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#B71C1C</item>
+        <item name="android:navigationBarColor">#171717</item>
+
+    </style>
+
+</resources>
